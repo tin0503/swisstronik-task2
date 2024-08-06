@@ -1,2 +1,2 @@
-# Swisstronik Tesnet Techinal Task 2
+# Swisstronik Tesnet Task 2 Mint 100 ERC20 Token
 
