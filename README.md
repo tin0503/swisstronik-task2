@@ -97,7 +97,8 @@ npm run transfer
 ### 11. Finsihed
 
 - Open the deployed-adddress.ts (location in utils folder)
-- Copy the address and paste the address in testnet dashboard
-- push this project to your github and paste your repository link in testnet dashboard
+- Copy the address and paste the address in testnet dashboard - line 1 
+- push this project to your github and paste your repository link in testnet dashboard - line 2
+- Copy txhash ( after run command transfer ), then open the linK : https://explorer-evm.testnet.swisstronik.com/tx/your_txhash and paste in testnet dashboard - line 3
 
 
